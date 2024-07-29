@@ -1,0 +1,41 @@
+body{
+background-image: url(imgs/Miss-Fannys-Victorian-Party-House-Amityphotos-68.jpg);
+background-repeat: no-repeat;
+background-size: 100%auto;
+background-color: black;
+}
+
+#title > h1{
+    margin: 100px;
+    margin-bottom: 500px;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+#Dolls {
+    width: 65%;
+    height: auto;
+    margin: auto;
+}
+
+#wrapp{
+    display: flex;
+   gap: 30px;
+}
+
+.img {
+    width: 250px;
+    height: 300px;
+    margin: 30px;
+}
+
+.description {
+    color: white;
+    width: 40%;
+    margin: 30px;
+}
+
+.content-wrapper {
+    display: block;
+}
